@@ -1,2 +1,8 @@
-
 /* Your CSS Code here. */
+body{
+	display: flex;
+	justify-content: center;
+}
+#panda_img{
+	width: 80%;
+}
